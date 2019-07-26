@@ -76,11 +76,11 @@ header > h1 {
     transition: transform 0.3s ease;
 }
 
-.choice:hover {
+/* .choice:hover {
     cursor: pointer;
     border: 4px solid greenyellow;
     transform: scale(1.5);
-}
+} */
 
 #action-message {
     text-align: center;
@@ -90,3 +90,29 @@ header > h1 {
     font-size: 20px;
     margin-top: 20px;
 }
+
+#user-score {
+    padding: 5px;
+    color: yellow;
+}
+
+#computer-score {
+    padding: 5px;
+    color: yellow;
+}
+
+.green-glow {
+    border: 5px solid #4dcc7d;
+    box-shadow: 0 0 10px #31b43a;
+}
+
+.red-glow {
+    border: 5px solid #fc121b;
+    box-shadow: 0 0 10px #d01115;
+}
+
+.gray-glow {
+    border: 4px solid #464647;
+    box-shadow: 0 0 10px #25292b;
+}
+
