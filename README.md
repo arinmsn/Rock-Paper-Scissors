@@ -5,6 +5,10 @@ Feeling lucky? Draw a rock, paper, or scissor by clicking on one of the images t
 
 ## Demo: 
 
-[Visit the live app page](rock-paper-s.netlify.com) and try it yourself!
+Go ahead and play it here:  https://rock-paper-s.netlify.com/
 
+![Visit the page](LIRI_app.gif "Animation of completed project in action")
 
+## Screenshots
+
+![Screenshot of paper-rock-scissors game](img/4.GIF "screenshot of paper-rock-scissors")
